@@ -31,5 +31,5 @@ Welcome to my QA Automation repository! This project showcases my expertise in a
 🔗 How to Run the Tests:  
 Clone the repository:  
 ```bash
-git clone https://github.com/lucasemanuelpm/Cypress-automation.git
+git clone https://github.com/lucasemanuelpm/Cypress-automation
 
