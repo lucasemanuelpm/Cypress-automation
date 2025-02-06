@@ -10,11 +10,11 @@ Welcome to my QA Automation repository! This project showcases my expertise in a
 - GitHub Actions: CI/CD pipeline integration for automated test execution  
 
 🔍 Tested E-commerce Platforms:  
-- Amazon – Validated search functionality, cart management, and checkout process  
-- eBay – Tested user authentication, product listing, and payment gateways  
-- Shopify Stores – Ensured seamless navigation and responsive design  
-- WooCommerce Sites – Checked product availability, filtering, and order placement  
-- Magento Stores – Verified user interactions, security measures, and API responses  
+- Anonymous – Validated search functionality, cart management, and checkout process  
+- Anonymous – Tested user authentication, product listing, and payment gateways  
+- Anonymous  – Ensured seamless navigation and responsive design  
+- Anonymous – Checked product availability, filtering, and order placement  
+- Anonymous – Verified user interactions, security measures, and API responses  
 
 ✅ Key Test Scenarios:  
 - User Authentication: Login, signup, and session handling  
